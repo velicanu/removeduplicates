@@ -1,5 +1,7 @@
 removeduplicates
 ================
+Currently only works on Data where run+event number are a unique combination. 
+
 Initial setup after cmsenv:
 ```bash
 git clone git@github.com:CmsHI/HiForestAnalysis.git
